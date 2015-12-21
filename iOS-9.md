@@ -46,13 +46,12 @@ AdColonyで表示する広告はこのAPIを利用する場合があります。
 
 ```xml
 <key>LSApplicationQueriesSchemes</key>
-    <array>
-        <string>fb</string>
-        <string>instagram</string>
-        <string>tumblr</string>
-        <string>twitter</string>
-    </array>
-</key>
+<array>
+    <string>fb</string>
+    <string>instagram</string>
+    <string>tumblr</string>
+    <string>twitter</string>
+</array>
 ```
 
 ##Notes##
