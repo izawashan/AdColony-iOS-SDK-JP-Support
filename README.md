@@ -45,7 +45,7 @@ pod 'AdColony'
 SDKのバージョンを指定してインストールする必要がある場合、[CocoaPod repository](https://github.com/CocoaPods/Specs/tree/master/Specs/AdColony)に存在するバージョンであれば、下記のような指定で導入することもできます。
 
 ```
-pod 'AdColony', '~> 2.6.0'
+pod 'AdColony', '~> 2.6.1'
 ```
  
 ###手動で設定###
