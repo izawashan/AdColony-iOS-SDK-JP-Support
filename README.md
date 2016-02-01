@@ -10,11 +10,14 @@ https://github.com/AdColony/AdColony-iOS-SDK
 https://github.com/AdColony/AdColony-AdobeAIR-SDK
 
 ---
+###対応OS###
+iOS6.0以上
 
 ###iOS9###
 iOS9にて追加された新しい仕様の中に、本SDKの実装に影響を及ぼすものが存在します。  
 アプリをiOS9ターゲット(Xcode 7以降)でビルドするためには、  
 [iOS9実装手順](iOS-9.md)に記載された手順に従った実装が必要となります。  
+
 
 ---
 ###Contents###
